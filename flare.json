@@ -6,9 +6,11 @@
     {"name": "Administration", "size": 1000},
     {"name": "Development liaison", "size": 1000},
     {"name": "Training", "size": 1000},
-    {"name": "Technical assistance", "size":1000},
+    {"name": "Technical assistance", "size": 1000}
     ]
-  }]
+  },
+  {"name": "CNP Progress Index", "size":1000}
+  ]
 }
 
 
