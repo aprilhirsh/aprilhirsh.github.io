@@ -8,10 +8,10 @@
     {
      "name": "Neighborhood Stabilization Team",
      "children": [
-      {"name": "Code Enforcement Partnership", "size": 3938},
-      {"name": "NST Administration", "size": 3812},
-      {"name": "NST Trainings", "size": 6714},
-      {"name": "MergeEdge", "size": 743}
+      {"name": "Code Enforcement Partnership", "size": 4000},
+      {"name": "NST Administration", "size": 1000},
+      {"name": "NST Trainings", "size": 1000},
+      {"name": "MergeEdge", "size": 500}
      ]
     },
     {
