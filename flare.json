@@ -17,7 +17,6 @@
       ]
      }
      ]
-     }
     {
      "name": "CNP Progress Index",
      "children": [
@@ -29,7 +28,7 @@
      ]
     },
     {
-     "name": "optimization",
+     "name": "Code Enforcement Partnership",
      "children": [
       {"name": "AspectRatioBanker", "size": 7074}
      ]
