@@ -29,6 +29,13 @@
    {"name": "Technical assistance to City", "size": 2000},
    {"name": "Tool development", "size": 3000}
    ]
+  },
+  {"name": "Cascade Village Evaluation",
+  "children": [
+   {"name": "Manage project and team", "size":500},
+   {"name": "Data collection", "size": 500},
+   {"name": "Data management", "size": 500},
+   {"name": "Data analysis", "size": 500}
+   ]
   }
-  ]
 }
