@@ -1,16 +1,16 @@
 
 {
- "name": "flare",
+ "name": "April's Current Projects",
  "children": [
   {
-   "name": "Scott is Crazy!",
+   "name": "Property/Neighborhood Data",
    "children": [
     {
-     "name": "cluster",
+     "name": "Neighborhood Stabilization Team",
      "children": [
-      {"name": "AgglomerativeCluster", "size": 3938},
-      {"name": "CommunityStructure", "size": 3812},
-      {"name": "HierarchicalCluster", "size": 6714},
+      {"name": "Code Enforcement Partnership", "size": 3938},
+      {"name": "NST Administration", "size": 3812},
+      {"name": "NST Trainings", "size": 6714},
       {"name": "MergeEdge", "size": 743}
      ]
     },
