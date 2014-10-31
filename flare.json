@@ -27,15 +27,8 @@
   "children": [
    {"name": "Manage project", "size": 2000},
    {"name": "Technical assistance to City", "size": 2000},
-   {"name": "Tool development", 
-   "children": [
-    {"name": "CDBG reporting tool", "size": 500},
-    {"name": "Mail merge letter tool", "size": 500}
+   {"name": "Tool development", "size": 3000}
    ]
   }
   ]
 }
-}
-
-
-
