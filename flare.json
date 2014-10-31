@@ -3,7 +3,7 @@
  "children": [
   {"name": "Neighborhood Stabiliation Team",
    "children": [
-    {"name": "Administration", "size": 1000},
+    {"name": "Administration and management", "size": 1000},
     {"name": "Development liaison", "size": 1000},
     {"name": "Training", "size": 1000},
     {"name": "Technical assistance", "size": 1000},
@@ -17,9 +17,18 @@
   },
   {"name": "CNP Progress Index", 
    "children": [
-    {"name": "Manage staff and timeline", "size": 500},
-    {"name": "Data", "size": 500}
+    {"name": "Manage project", "size": 500},
+    {"name": "Data analysis", "size": 500},
+    {"name": "Liaison to CNP and consultants", "size":500},
+    {"name": "Invision and encourage final product", "size": 500}
     ]
+  },
+  {"name": "Code Enforcement Partnership",
+  "children": [
+   {"name": "Manage project", "size": 2000},
+   {"name": "Technical assistance to City", "size": 2000},
+   {"name": "Tool development", "size": 3000}
+   ]
   }
   ]
 }
