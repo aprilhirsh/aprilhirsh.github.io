@@ -37,6 +37,12 @@
    {"name": "Data management", "size": 700},
    {"name": "Data analysis", "size": 700}
    ]
+  },
+  {"name": "Upcoming Projects",
+  "children": [
+   {"name": "County code enforcement", "size":1000},
+   {"name": "Something", "size": 100}
+   ]
   }
 ]
 }
