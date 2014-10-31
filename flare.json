@@ -1,17 +1,20 @@
 
 {
- "name": "April's Current Projects",
+ "name": " ",
  "children": [
   {
-   "name": "Property/Neighborhood Data",
+   "name": "Neighborhood Stabilization Team",
    "children": [
+    {"name": "Administration", "size": 1000},
+    {"name": "Development liaison", "size": 1000},
+    {"name": "Training", "size": 1000},
+    {"name": "Technical asistance", "size": 1000},
     {
-     "name": "Neighborhood Stabilization Team",
+     "name": "ArcGIS Online", 
      "children": [
-      {"name": "Code Enforcement Partnership", "size": 4000},
-      {"name": "NST Administration", "size": 1000},
-      {"name": "NST Trainings", "size": 1000},
-      {"name": "MergeEdge", "size": 500}
+      {"name": "Develop","size": 500},
+      {"name": "Manage", "size": 500}
+      ]
      ]
     },
     {
@@ -33,9 +36,9 @@
    ]
   },
   {
-   "name": "animate",
+   "name": "Evaluation",
    "children": [
-    {"name": "Easing", "size": 17010},
+    {"name": "Cleveland Neighborhood Progress- Progress Index", "size": 17010},
     {"name": "FunctionSequence", "size": 5842},
     {
      "name": "interpolate",
