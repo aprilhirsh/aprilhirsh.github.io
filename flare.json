@@ -32,10 +32,10 @@
   },
   {"name": "Cascade Village Evaluation",
   "children": [
-   {"name": "Manage project and team", "size":500},
-   {"name": "Data collection", "size": 500},
-   {"name": "Data management", "size": 500},
-   {"name": "Data analysis", "size": 500}
+   {"name": "Manage project and team", "size":1000},
+   {"name": "Data collection", "size": 700},
+   {"name": "Data management", "size": 700},
+   {"name": "Data analysis", "size": 700}
    ]
   }
 ]
